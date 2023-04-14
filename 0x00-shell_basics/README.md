@@ -12,3 +12,7 @@ displays current directory contents in long format
 
 4-listmorefiles
 Display current directory contents, including hidden files
+
+5-listfilesdigitonly
+displays the current directory content in long format, numerically with hidden files
+
