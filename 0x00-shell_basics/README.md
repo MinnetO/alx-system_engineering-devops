@@ -16,3 +16,6 @@ Display current directory contents, including hidden files
 5-listfilesdigitonly
 displays the current directory content in long format, numerically with hidden files
 
+6-firstdirectory
+displays a directory named my_first_directory in the /tmp/ directory
+
