@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/file_0.html && chmod 644 /tmp/file_0.html && ls -l /tmp/file_0.html
+cp -u *.html ~/alx-system_engineering-devops
